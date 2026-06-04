@@ -1,4 +1,10 @@
 
+## Setup and Interaction Instructions
+
+Open `index.html` in Google Chrome or run the project using Live Server in Visual Studio Code.
+
+This is a static Jenga-themed scene created with p5.js. There are no interactive elements. The sketch displays a background, a Jenga image, text, and shapes.
+
 ## Assets
 
 | File                           | Source                          |
